@@ -1,0 +1,7 @@
+Saved array:
+1)10.47
+2)12.96
+3)13.48
+4)27.4
+5)85.5
+There is no such element in the array
